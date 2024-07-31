@@ -1,90 +1,112 @@
-<h1 align="center">e-Shop Website</h1>
+Title:
+Revolutionizing Photo Memories: The ColorKraft App Case Study
 
-<p align="center">  
-<a href="http://www.linkedin.com/in/valentine-fernandes-75701622b">
-       <img alt="Valentine Fernandes" src="https://img.shields.io/badge/-ValentineFernandes-FF6347?style=flat&logo=Linkedin&logoColor=white" />
-   </a>
-  <a href="https://github.com/ValentineFernandes/eShop-Website/blob/main/LICENSE">
-    <img alt="License: MIT" src="https://img.shields.io/github/license/ValentineFernandes/eShop-Website?color=red" target="_blank" />
-  </a>
-  <img alt="GitHub Forks" src="https://img.shields.io/github/forks/ValentineFernandes/eShop-Website?color=red" />
-  <img alt="Stars" src="https://img.shields.io/github/stars/ValentineFernandes/eShop-Website?color=red" />
-  <img alt="Repo size" src="https://img.shields.io/github/repo-size/ValentineFernandes/eShop-Website?color=red" />
-<img alt= "Watchers" src="https://img.shields.io/github/watchers/ValentineFernandes/eShop-Website?color=red" />
-<img alt= "Last commit" src="https://img.shields.io/github/last-commit/ValentineFernandes/eShop-Website?color=red" />
-</p>
+Description:
+The ColorKraft App is an innovative platform designed to help users customize and create various photo-related products, such as photobooks, color tiles, retro prints, photo strips, and more. Users can personalize these items and receive them as hard copies through home delivery. This case study explores the features, integrations, tech stack, developer contributions, and overall impact of the ColorKraft App.
 
+What the Product is All About?
+Key Features:
+User App Features:
+Personalized Photo Albums:
+Create custom photobooks, themed photobooks, color tiles, color retro prints, standard prints, photo calendars, photo strips, photo magnets, and themed mugs.
 
-> e-Shop is an e-commerce website where you can shop for items online.
+Draft Creation:
+Save projects as drafts for later customization.
 
+Order Placement and Status Tracking:
+Place orders and track their status in real time.
 
-> It's a Maven-based project.
+Dispute Resolution:
+Dedicated feature for managing order disputes.
 
+User Profiles:
+Includes order history and personalized recommendations.
 
-<div align="center">
-<sub>This e-Shop website is created by
-<a href="https://github.com/ValentineFernandes">Valentine Fernandes
-</a>
-</sub>
-</div>
+Trending Products:
+Highlights popular products.
 
+Occasion-Based Products:
+Tailored products for specific events and celebrations.
 
-<h1 align="center">Home Page (index.jsp)</h1>
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop1.jpg">
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop2.jpg" width="2000px">
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop3.jpg" width="2000px">
+Blogs:
+Engaging content related to photography, product ideas, and more.
 
-<h1 align="center">Cart Page (cart.jsp)</h1>
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop5.jpg" width="2000px">
+Testimonials and Feedback:
+User reviews and feedback to build trust and improve services.
 
-<h1 align="center">Login Page (login.jsp)</h1>
-<img src="https://github.com/ValentineFernandes/ValentineFernandes/blob/main/Portfolio/eshop6.jpg" width="2000px">
+Enhanced Photo Gallery:
+Allows users to fetch images directly from Facebook, Instagram, and Google Photos for easy access and integration.
 
-# 📝 Features
+Admin Portal Features:
+Admin Dashboard:
 
-✅ It is a Java Maven Project </br>
-✅ It’s a dynamic web application where Users/Customers can view and buy the product <br>
-✅ It has a cart page where users can add their products to the cart and place an order 
+Supervisor Dashboard: Monitors overall order status, including Pending, Accepted, Confirmed, Canceled, Printed, Failed, and Disputed Orders.
+Order Analysis Dashboard: Provides insights into required order components for the completion of pending orders, including sizes, styles, packaging, laminations, bundles, etc.
+Order Confirmation Dashboard: Manages order confirmations based on product details and shipping information.
+Printing Dashboard:
 
-# 👩‍💻 Languages
+Photo Lab Dashboard: Oversees printing through the photo lab printing machine.
+Digital Press Dashboard: Oversees printing through the digital press printing machine.
+Sublimation Dashboard: Oversees printing through the sublimation printing machine.
+QA Dashboard:
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-FFF600?style=for-the-badge&logo=javascript&logoColor=white">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+Printing QA Dashboard: Ensures quality control throughout the printing process.
+Product QA Dashboard: Manages quality assurance for final products.
+Dispatch Dashboard:
+Manages order dispatch and logistics.
 
-# 🚀 Frameworks
+Pricing Dashboard:
 
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-<img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+General Pricing Dashboard: Handles standard pricing configurations.
+Discount Pricing Dashboard: Manages promotional and discount pricing.
+User Rights Dashboard:
+Manages user roles and permissions.
 
-# ⚡ Database
+Inventory Dashboard:
+Manages inventory levels and item requisitions.
 
-<img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+Inventory Item Requisition Dashboard: Handles requests for inventory items.
+Inventory Reports:
+Inventory Item View Report
+Inventory Item Stock List Report
+Inventory Item Issuance View Report
+Inventory Item Stock Summary Report
+Inventory Item Requisition Form
+Inventory Item Issue Form
+Add Inventory Form
+Integrations and Tech Stack:
+Integrations:
+Firebase Integration
+Social Media Integration: Allows users to import pictures from Facebook, Instagram, and Google Photos.
+Tech Stack:
+Frontend: React.js
+Backend: Java Spring Boot
+Database: MySQL
+Mobile App: Flutter
+APIs: REST API
+Payment Gateway: COD, Bank Transfer, Credit Card, Debit Card
+My Contributions:
+As a developer on the ColorKraft App project, my contributions were pivotal in several key areas:
 
-# 💻 Server
+Enhanced Photo Gallery:
+Developed the integration feature to fetch images from Facebook, Instagram, and Google Photos.
 
-<img src="https://img.shields.io/badge/Apache_Tomcat-D22128?style=for-the-badge&logo=ApacheTomcat&logoColor=white">
+Order Tracking System:
+Implemented real-time order status updates, improving user engagement and satisfaction.
 
-# 🛠️ Built-in Tool
-<img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+Admin Dashboard Development:
+Created comprehensive dashboards for supervisors, order analysis, and confirmations.
 
-# 👨🏿‍💻 Other Technologies Used
+QA and Dispatch Systems:
+Developed robust quality assurance and dispatch management systems.
 
-<img src="https://img.shields.io/badge/JDBC-FF5733?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/JSP-FF0000?style=for-the-badge&logo=java&logoColor=white">
-<img src="https://img.shields.io/badge/Servlet-FF0000?style=for-the-badge&logo=java&logoColor=white">
+Inventory Management:
+Designed and implemented the inventory management module, including requisition and issuance forms and reports.
 
-# 👨🏻‍💻 IDE
+User Profile Management:
+Enhanced user profile features to include order history and personalized recommendations.
 
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
+The Impact That I Created:
+My contributions significantly enhanced the ColorKraft App's functionality and user experience. The integration of social media platforms streamlined photo uploading, making the app more user-friendly and accessible. The real-time order tracking system improved customer satisfaction by keeping users informed about their orders. The comprehensive admin dashboards enabled efficient management and oversight of orders, printing, and inventory processes.
 
-# 👷 How to run
-
-✅ Download and install MySQL database, Eclipse IDE, Apache Tomcat server, MySQL JDBC Driver.<br>
-✅ Open http://localhost:8080/shopping-cart/index.jsp with your browser to see the result.<br>
-✅ Note:- The above link will only work when this project is connected with Apache Tomcat server.
-
-# 📕 License
-
-This project is under <a href="https://github.com/ValentineFernandes/eShop-Website/blob/main/LICENSE">MIT</a> license.
+The quality assurance and dispatch systems ensured that products met high standards and were delivered promptly. My work on the inventory management module helped streamline operations, reducing errors and improving efficiency. Overall, my contributions played a crucial role in the success of the ColorKraft App, resulting in increased user engagement, higher customer satisfaction, and operational efficiency.
