@@ -166,9 +166,8 @@ As a developer on the ColorKraft App project, my contributions include:
 5. Create a new Pull Request.
 
 ## Snapshots
-
-![screencapture-3-77-99-127-8080-ck-2024-07-19-22_08_07](https://github.com/user-attachments/assets/40625b14-257e-4cf1-891d-ccfdc774df02)
 ![screencapture-3-77-99-127-8080-ck-2024-07-19-22_05_23](https://github.com/user-attachments/assets/fa2fa21a-833e-45a0-a487-cdfde00b7f6c)
+![screencapture-3-77-99-127-8080-ck-2024-07-19-22_08_07](https://github.com/user-attachments/assets/40625b14-257e-4cf1-891d-ccfdc774df02)
 ![Screenshot 2024-07-19 220421](https://github.com/user-attachments/assets/478d152a-c55e-494f-b8e1-d3210dfd2df2)
 ![screencapture-3-77-99-127-8080-ck-2024-07-19-22_07_24](https://github.com/user-attachments/assets/2a8bfd87-a706-4620-9301-0efa49f1e89f)
 ![screencapture-3-77-99-127-8080-ck-2024-07-19-21_59_08](https://github.com/user-attachments/assets/b45b59ee-1442-46ee-97da-482e204f90e1)
