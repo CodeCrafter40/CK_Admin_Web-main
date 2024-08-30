@@ -4,116 +4,93 @@
 
 ## Description
 
-The ColorKraft App is an innovative platform that allows users to customize and create various photo-related products, such as photobooks, color tiles, retro prints, photo strips, and more. Users can personalize these items and receive them as hard copies through home delivery.
+The ColorKraft App is a platform for customizing and ordering photo-related products like photobooks, prints, and mugs. Users can personalize items and receive them via home delivery.
 
 ## Features
 
 ### User App
 
 - **Personalized Photo Albums**  
-  Create custom photobooks, themed photobooks, color tiles, color retro prints, standard prints, photo calendars, photo strips, photo magnets, and themed mugs.
+  Create and customize photobooks, prints, photo strips, and more.
 
 - **Draft Creation**  
-  Save projects as drafts for later customization.
+  Save projects as drafts for later editing.
 
 - **Order Placement and Status Tracking**  
-  Place orders and track their status in real time.
+  Place orders and track their progress in real time.
 
 - **Dispute Resolution**  
-  Manage order disputes through a dedicated feature.
+  Manage and resolve order disputes.
 
 - **User Profiles**  
-  Includes order history and personalized recommendations.
+  Access order history and receive personalized recommendations.
 
-- **Trending Products**  
-  Highlights popular products.
+- **Trending and Occasion-Based Products**  
+  Discover popular and event-specific products.
 
-- **Occasion-Based Products**  
-  Tailored products for specific events and celebrations.
-
-- **Blogs**  
-  Engaging content related to photography, product ideas, and more.
-
-- **Testimonials and Feedback**  
-  User reviews and feedback to build trust and improve services.
+- **Blogs and Feedback**  
+  Read photography-related content and provide feedback.
 
 - **Enhanced Photo Gallery**  
-  Import images directly from Facebook, Instagram, and Google Photos.
+  Import images from Facebook, Instagram, and Google Photos.
 
 ### Admin Portal
 
-- **Admin Dashboard**  
-  - Monitor overall order status, including Pending, Accepted, Confirmed, Canceled, Printed, Failed, and Disputed Orders.
-  - Analyze orders for components needed to complete them, such as sizes, styles, packaging, laminations, bundles, etc.
-  - Manage order confirmations based on product and shipping details.
+- **Order and Inventory Management**  
+  Monitor and manage orders, inventory, and pricing.
 
-- **Printing Dashboards**  
-  - **Photo Lab Dashboard**: Oversees printing through the photo lab.
-  - **Digital Press Dashboard**: Oversees printing through the digital press.
-  - **Sublimation Dashboard**: Oversees printing through the sublimation process.
+- **Printing and QA Dashboards**  
+  Oversee printing processes and ensure quality control.
 
-- **QA Dashboard**  
-  - Ensure quality control in printing and final products.
-
-- **Dispatch Dashboard**  
-  - Manage order dispatch and logistics.
-
-- **Pricing Dashboard**  
-  - Configure standard and discount pricing.
-
-- **Inventory Management**  
-  - Manage inventory levels, requisitions, and reports.
+- **Dispatch and Pricing**  
+  Handle order dispatch and configure pricing.
 
 ## Integrations and Tech Stack
 
 ### Integrations
 
-- **Firebase Integration**
-- **Social Media Integration:** Facebook, Instagram, Google Photos
+- **Firebase:** Authentication and real-time data.
+- **Social Media:** Facebook, Instagram, Google Photos.
 
 ### Tech Stack
 
 - **Frontend:** React.js, HTML, CSS
-- **Backend:** Java Spring Boot, REST API
+- **Backend:** Java Spring Boot
 - **Database:** MySQL
-- **Mobile App:** Flutter
-- **Payment Gateway:** COD, Bank Transfer, Credit Card, Debit Card
 
 ## My Contributions
 
-As a developer on the ColorKraft App project, my contributions include:
-
-- **Enhanced Photo Gallery**  
-  Implemented integration for importing images from social media platforms.
+- **Photo Gallery Integration**  
+  Implemented social media image imports.
 
 - **Order Tracking System**  
   Developed real-time order status updates.
 
-- **Admin Dashboard Development**  
+- **Admin Dashboard**  
   Created dashboards for order management and analysis.
 
 - **QA and Dispatch Systems**  
-  Developed systems for quality assurance and dispatch management.
+  Developed quality assurance and dispatch management systems.
 
 - **Inventory Management**  
-  Designed and implemented the inventory management module.
+  Designed and implemented the inventory module.
 
-- **User Profile Management**  
-  Enhanced features for user profiles, including order history and recommendations.
+- **User Profiles**  
+  Enhanced features for user profiles and recommendations.
 
 ## Impact
 
 - **Enhanced User Experience**  
-  Created an intuitive and responsive interface for easy management and monitoring of home devices.
+  Intuitive interface for managing and ordering photo products.
 
 - **Improved Engagement**  
-  Developed a visually appealing design, increasing user satisfaction and engagement.
+  Visually appealing design that boosts user satisfaction.
 
 - **Real-Time Interaction**  
-  Implemented real-time updates for immediate feedback and control.
+  Immediate feedback and control through real-time updates.
 
 - **Accessibility**  
-  Ensured the application is accessible via the web, enabling users to manage their environment from anywhere.
+  Web-based access allowing users to manage orders from anywhere.
 
 ## Installation
 
@@ -127,20 +104,20 @@ As a developer on the ColorKraft App project, my contributions include:
    cd colorkraft-app
    ```
 
-3. **Install dependencies for the frontend:**
+3. **Install frontend dependencies:**
    ```sh
    cd frontend
    npm install
    ```
 
-4. **Install dependencies for the backend:**
+4. **Install backend dependencies:**
    ```sh
    cd ../backend
    mvn install
    ```
 
 5. **Set up the database:**  
-   Configure your MySQL database settings in the application properties.
+   Configure MySQL database settings in application properties.
 
 6. **Run the application:**
    - Start the backend server:
@@ -155,20 +132,21 @@ As a developer on the ColorKraft App project, my contributions include:
 ## Usage
 
 1. Access the frontend at `http://localhost:3000`.
-2. Use the admin portal to manage products, orders, and users.
+2. Manage products, orders, and users through the admin portal.
 
 ## Contributing
 
 1. Fork the repository.
 2. Create a new branch (`git checkout -b feature/your-feature`).
-3. Make your changes and commit them (`git commit -m 'Add your feature'`).
+3. Commit changes (`git commit -m 'Add your feature'`).
 4. Push to the branch (`git push origin feature/your-feature`).
-5. Create a new Pull Request.
+5. Create a Pull Request.
 
 ## Snapshots
-![screencapture-3-77-99-127-8080-ck-2024-07-19-22_05_23](https://github.com/user-attachments/assets/fa2fa21a-833e-45a0-a487-cdfde00b7f6c)
-![screencapture-3-77-99-127-8080-ck-2024-07-19-22_08_07](https://github.com/user-attachments/assets/40625b14-257e-4cf1-891d-ccfdc774df02)
-![Screenshot 2024-07-19 220421](https://github.com/user-attachments/assets/478d152a-c55e-494f-b8e1-d3210dfd2df2)
-![screencapture-3-77-99-127-8080-ck-2024-07-19-22_07_24](https://github.com/user-attachments/assets/2a8bfd87-a706-4620-9301-0efa49f1e89f)
-![screencapture-3-77-99-127-8080-ck-2024-07-19-21_59_08](https://github.com/user-attachments/assets/b45b59ee-1442-46ee-97da-482e204f90e1)
+![A01](https://github.com/user-attachments/assets/35ceb09f-eb5a-446e-bfa7-a132409beee2)
+![Screenshot 2024-07-19 220421](https://github.com/user-attachments/assets/5b0277e0-ec3a-4e05-84a9-810e3d8caaf0)
+![screencapture-3-77-99-127-8080-ck-2024-07-19-21_59_51](https://github.com/user-attachments/assets/175fa239-ef88-4bba-982a-8a118dd5293e)
+![screencapture-3-77-99-127-8080-ck-2024-07-19-21_59_08](https://github.com/user-attachments/assets/aa1416c3-efc3-4878-807a-f8c4d8c5c36c)
+![screencapture-3-77-99-127-8080-ck-2024-07-19-21_56_55](https://github.com/user-attachments/assets/97dab427-d66f-430b-887f-5ddc32523dc4)
+![screencapture-3-77-99-127-8080-ck-2024-07-19-21_53_21](https://github.com/user-attachments/assets/876333ab-4949-4976-a639-da763d2d239e)
 
