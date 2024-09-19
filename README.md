@@ -54,6 +54,16 @@ The ColorKraft App is a platform for customizing and ordering photo-related prod
 
 ### Tech Stack
 
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-%2320232a.svg?style=for-the-badge&logo=typescript&logoColor=%2379c8ff)
+![Node.js](https://img.shields.io/badge/Node.js-%2320232a.svg?style=for-the-badge&logo=node.js&logoColor=%2361DAFB)
+![Express](https://img.shields.io/badge/Express-%2320232a.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2320232a.svg?style=for-the-badge&logo=mongodb&logoColor=%2347A248)
+![Docker](https://img.shields.io/badge/Docker-%2320232a.svg?style=for-the-badge&logo=docker&logoColor=%2396C5F8)
+![GraphQL](https://img.shields.io/badge/GraphQL-%2320232a.svg?style=for-the-badge&logo=graphql&logoColor=%E10098)
+![Jest](https://img.shields.io/badge/Jest-%2320232a.svg?style=for-the-badge&logo=jest&logoColor=%E10098)
+
+
 - **Frontend:** React.js, HTML, CSS
 - **Backend:** Java Spring Boot
 - **Database:** MySQL
